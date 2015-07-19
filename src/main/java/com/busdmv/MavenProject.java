@@ -3,7 +3,7 @@ package com.busdmv;
 import org.apache.commons.lang3.StringUtils;
 import java.io.*;
 
-public class App {
+public class MavenProject {
 
     public static void main(String[] args) throws IOException {
 
